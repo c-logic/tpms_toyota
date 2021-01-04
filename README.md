@@ -1,4 +1,5 @@
-# tpms_toyota_gen
+# tpms_toyota
+
 ## Original project: https://www.hackster.io/jsmsolns/arduino-toyota-uk-tpms-tyre-pressure-display-b6e544 from JSMSolns
 
 ## ESP32impl
