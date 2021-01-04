@@ -6,4 +6,4 @@ Pressure-Monitor for ESP32
 needs ESP32, OLED1306 and CC1101.
 
 ## generator 
-generator for toyota-codes inkl. encode/decode-lib-implemenation.
+generator for toyota-codes inclusive encode/decode-lib-implemenation.
